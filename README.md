@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Brenda de Paula Ribeiro  
 
-<!--
-**brendadepaula060/brendadepaula060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Uniasselvi (2º semestre)  
+💻 Buscando meu primeiro estágio na área de Tecnologia da Informação  
+🌱 Atualmente estudando Lógica de Programação, Redes de Computadores e Segurança da Informação  
+☁️ Interesses em Computação em Nuvem e Desenvolvimento Web  
 
-Here are some ideas to get you started:
+## 💼 Sobre mim  
+Sou uma pessoa dedicada, organizada e apaixonada por tecnologia.  
+Tenho facilidade para aprender, gosto de trabalhar em equipe e estou sempre em busca de novos desafios que contribuam para o meu crescimento profissional.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo  
+- Lógica de Programação  
+- HTML / CSS  
+- Git e GitHub  
+- Python (básico)  
+- Redes de Computadores  
+- Segurança da Informação  
+
+## 📫 Como me encontrar  
+📍 Mogi das Cruzes – SP  
+📧 [bedepaula060@gmail.com](mailto:bedepaula060@gmail.com)  
+🔗 [LinkedIn](http://linkedin.com/in/brenda-de-paula-6aa888362)
